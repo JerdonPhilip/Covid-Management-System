@@ -1,0 +1,6 @@
+.responsive-table{
+	height: 300px !important;
+	overflow-y: auto !important;
+	display: none !important;
+
+}
